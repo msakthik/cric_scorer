@@ -21,9 +21,6 @@ Cric Scorer is a mobile application built using **React Native (Expo)** designed
 - **React Native**
 - **Expo**
 - **TypeScript**
-- **Axios**
-- **Firebase** (Authentication / Backend services)
-- **Fastify API** (Backend)
 
 ---
 
